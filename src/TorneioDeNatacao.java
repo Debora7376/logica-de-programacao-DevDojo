@@ -8,7 +8,7 @@ public class TorneioDeNatacao {
         String nome = entrada.next();
         System.out.println("Informe sua idade");
         int idade = entrada.nextInt();
-        if (idade < 10) {
+        if (idade <= 10) {
             System.out.println(nome + " participará da categoria Infantil");
         } else if (idade >= 11 && idade <= 15){
             System.out.println(nome + " participará da categoria Juvenil");
