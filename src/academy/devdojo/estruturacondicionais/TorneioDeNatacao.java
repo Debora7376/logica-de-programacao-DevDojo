@@ -1,3 +1,5 @@
+package academy.devdojo.estruturacondicionais;
+
 import java.util.Scanner;
 
 public class TorneioDeNatacao {

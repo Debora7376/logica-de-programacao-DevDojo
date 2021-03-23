@@ -1,3 +1,5 @@
+package academy.devdojo.estruturacondicionais;
+
 public class CalculadoraImpostoComCondicional {
     public static void main(String[] args) {
         float salario = 4700.50F;
@@ -16,7 +18,7 @@ public class CalculadoraImpostoComCondicional {
 /*
         Versao do Professor
 
-public class CalculadoraImpostoComCondicional {
+public class academy.devdojo.estruturacondicionais.CalculadoraImpostoComCondicional {
     public static void main(String[] args) {
         float salario = 4700F;
         if (salario > 4500) {

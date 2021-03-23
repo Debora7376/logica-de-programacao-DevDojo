@@ -1,3 +1,5 @@
+package academy.devdojo.estruturacondicionais;
+
 public class ImpostoDeRenda {
     public static void main(String[] args) {
         double salario = 5350;

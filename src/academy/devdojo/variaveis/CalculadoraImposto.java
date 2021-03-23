@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class CalculadoraImposto {
     public static void main (String[] agrs) {
         float salario = 2500.00F;
