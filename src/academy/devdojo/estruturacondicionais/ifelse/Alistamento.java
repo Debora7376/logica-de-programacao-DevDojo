@@ -1,4 +1,4 @@
-package academy.devdojo.estruturacondicionais;
+package academy.devdojo.estruturacondicionais.ifelse;
 
 import java.util.Scanner;
 
@@ -11,9 +11,9 @@ public class Alistamento {
         Integer idade = entrada.nextInt();
 
         if (sexo.equalsIgnoreCase("M") && idade >= 18) {
-            System.out.println("academy.devdojo.estruturacondicionais.Alistamento Obrigatorio");
+            System.out.println("academy.devdojo.estruturacondicionais.ifelse.Alistamento Obrigatorio");
         } else if ((sexo.equalsIgnoreCase("M") && idade < 18) || (sexo.equalsIgnoreCase("F") && idade < 18)) {
-            System.out.println("academy.devdojo.estruturacondicionais.Alistamento não permitido");
+            System.out.println("academy.devdojo.estruturacondicionais.ifelse.Alistamento não permitido");
         } else if (sexo.equalsIgnoreCase("F") && idade >= 18) {
             System.out.println("Deseja se alistar? ");
         }

@@ -1,4 +1,4 @@
-package academy.devdojo.estruturacondicionais;
+package academy.devdojo.estruturacondicionais.ifelse;
 
 public class ImpostoDeRenda {
     public static void main(String[] args) {
