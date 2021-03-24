@@ -1,4 +1,4 @@
-package academy.devdojo.estruturacondicionais.switchcase.lacosderepeticao.fors;
+package academy.devdojo.lacosderepeticao.fors;
 
 public class Aula02Exercicio02 {
     public static void main(String[] args) {

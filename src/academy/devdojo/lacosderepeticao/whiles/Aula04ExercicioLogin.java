@@ -1,4 +1,4 @@
-package academy.devdojo.estruturacondicionais.switchcase.lacosderepeticao.whiles;
+package academy.devdojo.lacosderepeticao.whiles;
 
 import java.util.Scanner;
 
